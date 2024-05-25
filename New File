@@ -1,1 +1,3 @@
-
+cout<<"Name: Muhammad Zain"<<endl;
+cout<<"Roll Number: 2023-BT-SE-05"<<endl;
+cout<<"Department: Computer Science"<<endl;
